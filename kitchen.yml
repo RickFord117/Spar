@@ -20,7 +20,7 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[Sparta_global_python::default]
+      - recipe[python::default]
     verifier:
       inspec_tests:
         - test/integration/default
