@@ -14,4 +14,4 @@ GRAPH
   poise-python (1.7.0)
     poise (~> 2.7)
     poise-languages (~> 2.0)
-  python (0.1.0)
+  python (0.1.1)
