@@ -9,3 +9,4 @@ apt_update
 package 'python'
 package 'python-pip'
 package 'libncurses5-dev'
+package 'libncursesw5-dev'
