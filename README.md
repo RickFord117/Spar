@@ -1,4 +1,7 @@
 # python
+==============================
+Ricardo Henriques
+
 
 This a Python cookbook that can be used within other provisioning projects. It installs Python, Python-pip, libncurses5 and libncursesw5.
 
